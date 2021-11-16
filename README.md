@@ -17,3 +17,7 @@ Schedule | | |
 10/11 | [Evolutionary Strategies](2_es.html) | Population-based methods, 1+1 ES, CMA-ES |
 17/11 | [Genetic Algorithms](3_ga.html) | Genetic Algorithm, Multi-Objective Optimization, NSGA-II |
 25/11 | [Project](project.html) | Project presentations |
+
+## Personnal Notes
+
+See evolutionary algorithms course ISAE 2020-2021 for notebooks other than Random Search and Simulated Annealing.
